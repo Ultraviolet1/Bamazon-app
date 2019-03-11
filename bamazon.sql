@@ -42,3 +42,5 @@ value("Nail Polish", "Luxury Beauty", 15, 20);
 
 insert into products(product_name, department_name, price, stock_quantity)
 value("Fitness Tracker", "Sports", 65, 21);
+
+select * FROM products
